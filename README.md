@@ -1,4 +1,4 @@
-# RISC-V_Simulator
+# RISC-V_Simulator_C
 
 This project aims to create a RISC-V instruction set simulator (ISS).
 
