@@ -1,4 +1,4 @@
-# RISC-V_Simulator_C
+# RISC-V Instruction Set Simulator written in plain C
 
 This project aims to create a RISC-V instruction set simulator (ISS).
 
