@@ -1,5 +1,7 @@
 # RISC-V Instruction Set Simulator written in plain C
 
+This is mainly just an exercise to see what it is like to write in plain C
+
 This project aims to create a RISC-V instruction set simulator (ISS).
 
 ### RV32I As described in the specification:
